@@ -7,7 +7,7 @@ namespace SkalProj_Datastrukturer_Minne {
     class QuestionsAndAnswer {
 
 
-        //    //    //                       // ///             Övning 1: ExamineList()
+        //                 Övning 1: ExamineList()
         
         // 1. Hur fungerar stacken och heapen ? Förklara gärna med exempel eller skiss på dess grundläggande funktion.
 
